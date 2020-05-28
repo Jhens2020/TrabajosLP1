@@ -1,0 +1,79 @@
+body{
+	background-color :black;
+	font-family: Open Sans: 
+}
+table{
+	background-color :skyblue;
+	border-radius: 5px;
+}
+
+#pagina{
+	box-shadow: 0px 0px 10px withe;
+}
+
+#foto{
+	width: 200px;
+	border-radius: 50%;
+	box-shadow: 0px 0px 20px green;
+	border: dotted 2px black;
+}
+
+.titulo1{
+	color: green;
+	text-align: center;
+	text-shadow: 2px 2px 2px black;	
+}
+
+.titulo2{
+	color: green;
+	text-align: center;
+	text-shadow: 1px 1px 1px black;
+
+}
+
+.exp{
+	color: green;
+	text-shadow: 1px 1px 1px black;
+
+}
+
+.description1{
+	color: green;
+	text-align: center;
+	text-shadow: 1px 1px 1px black;
+
+}
+
+.description2{
+	color: green;
+	text-align: center;
+	text-shadow: 0px 1px 0px black;
+
+}
+
+.description3{
+	color: green;
+	text-align: center;
+	text-shadow: 0px 1px 0px black;
+
+}
+
+.date1{
+	color: green;
+	text-shadow: 0px 1px 0px black;
+}
+
+.exp1{
+	color: green;
+
+}
+
+.exp2{
+	color: green;
+
+}
+
+.exp3{
+	color: green;
+
+}
